@@ -1,0 +1,23 @@
+h1, h2 {
+    text-align: center;
+}
+
+.users-loadmore-button, .projects-loadmore-button, .retry-button {
+    left: 45%;
+}
+
+.error-text {
+    text-align: center;
+    font-weight: bold;
+    color: red;
+}
+
+.user-actions, .projects-actions {
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.loader {
+    position: absolute;
+    left: 50%;
+}
